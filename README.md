@@ -99,13 +99,12 @@ Hit the Play Button ▶️
 
 ---
 
-## 6. Similar Projects & Resources
+## 6. Projects & Resources
 
 If you enjoyed this walkthrough, check out these related builds:
 
-- [![GitHub](https://img.shields.io/badge/GitHub-Chatbot%20Repo-black?logo=github)](https://github.com/MansiMore99/Fitness-ChatBot-using-LLM-on-Google-Cloud-Platform)  
-- [![Blog](https://img.shields.io/badge/Blog-Tutorial%20Post-blue?logo=medium)](https://medium.com/@mansi.more943/chatbot-for-website-using-vertex-ai-agent-builder-on-google-cloud-platform-41737d030a42)  
-- [![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video-red?logo=youtube)](https://youtu.be/Tz4grh6GTXs?si=PYESvK6-UKZkW5bQ)  
+- [![Blog](https://img.shields.io/badge/Blog-Tutorial%20Post-blue?logo=medium)](https://medium.com/@mansi.more943/anonymize-your-confidential-data-from-ai-systems-with-aparavi-568f5d3f1e43)  
+- [![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video-red?logo=youtube)](https://youtu.be/J4gS2u8DPt0)  
 
 ---
 
