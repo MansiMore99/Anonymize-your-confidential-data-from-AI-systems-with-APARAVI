@@ -42,7 +42,8 @@ Here’s a quick example:
 Before: "Contact Sarah at sarah@example.com or 415‑555‑1234."
 After:  "Contact █████ at █████████████ or ████████████."
 ```
-<img width="306" height="73" alt="Screenshot 2025-07-13 at 3 53 19 AM" src="https://github.com/user-attachments/assets/d9acb71f-e313-4534-9046-65511c49f631" />
+<img width="306" height="73" alt="Screenshot 2025-07-13 at 3 53 19 AM" src="https://github.com/user-attachments/assets/d9acb71f-e313-4534-9046-65511c49f631" /> <img width="202" height="66" alt="Screenshot 2025-07-13 at 4 48 21 AM" src="https://github.com/user-attachments/assets/33b2b8b5-400f-460a-856c-6a5ccb1158bf" />
+
 <img width="3279" height="860" alt="Classify and Anonymize" src="https://github.com/user-attachments/assets/0631fab3-55ee-499e-ad4c-3e00b218ba65" />
 
 This is a Classification and Anonymization pipeline that processes text for privacy and categorization before embedding.
